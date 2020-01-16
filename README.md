@@ -2,6 +2,9 @@
 
 _This is forked from https://sourceforge.net/projects/igcc/. I have done some refactoring and ported to Python 3.7, currently maintaining it._
 
+
+[![Run on Repl.it](https://repl.it/badge/github/kgashok/igcc)](https://repl.it/github/kgashok/igcc)
+
 Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++ programmers.
 The `cstdio`, `iostream` and `string` headers are automatically included,
 and the `std namespace` is automatically in scope.
